@@ -1,7 +1,7 @@
 import UIKit
 import Foundation
  
-let apiKey = "e984ac562153f8a90aa41c1da04ab68d"
+let apiKey = "your api key here. im not putting mine for sake of github issues"
  
 //let data: Data? = """
 //{"coord":{"lon":-80,"lat":40.44},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":41.5,"feels_like":36.81,"temp_min":37.4,"temp_max":45,"pressure":1021,"humidity":80},"visibility":16093,"wind":{"speed":3.04,"deg":79},"clouds":{"all":90},"dt":1585068301,"sys":{"type":1,"id":3510,"country":"US","sunrise":1585048554,"sunset":1585092969},"timezone":-14400,"id":5206379,"name":"Pittsburgh","cod":200}
